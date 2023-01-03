@@ -1,1 +1,1 @@
-# Exploratory_Analysis_CaseStudy_coursera
+# Exploratory_Analysis_Coursera_CaseStudy
